@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trung</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
+<div align="center">
+<img alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trungjamin&label=Profile%20views&color=0e75b6&style=flat" alt="trungjamin" /> </p>
 
@@ -13,7 +16,7 @@
 
 - 📫 How to reach me **trungjaminle@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/137kCB8sy5wZZKuN-LxbJ3GqSRWk0jK_X?usp=sharing](https://drive.google.com/drive/folders/137kCB8sy5wZZKuN-LxbJ3GqSRWk0jK_X?usp=sharing)
+- 📄 Know about my experiences [myCV](https://drive.google.com/drive/folders/137kCB8sy5wZZKuN-LxbJ3GqSRWk0jK_X?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
