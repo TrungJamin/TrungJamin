@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **trungjaminle@gmail.com**
 
-- 📄 Know about my experiences [myCV](https://drive.google.com/drive/folders/137kCB8sy5wZZKuN-LxbJ3GqSRWk0jK_X?usp=sharing)
+- 📄 Know about my experiences [myCV](https://pdfhost.io/v/nBK4f153R_LeDangTrung_CV)
 
 - ⚡ Fun fact **I think I'm funny**
 
