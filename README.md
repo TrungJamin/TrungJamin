@@ -36,4 +36,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungjamin&theme=dark" alt="trungjamin" /></p>
 
-https://activity-graph.herokuapp.com/graph?username=trungjamin&theme=react-dark&hide_border=true
+## <p align="center">Github Contributions 📈</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=Hi1805&theme=react-dark&hide_border=true">
+<p>
+
