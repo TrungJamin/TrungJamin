@@ -35,3 +35,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trungjamin&show_icons=true&locale=en&theme=dark" alt="trungjamin" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trungjamin&theme=dark" alt="trungjamin" /></p>
+
+https://activity-graph.herokuapp.com/graph?username=trungjamin&theme=react-dark&hide_border=true
